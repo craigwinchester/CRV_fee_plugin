@@ -1,2 +1,3 @@
 # CRV_fee_plugin
-California Redemption Value
+California Redemption Value plugin for WooCommerce / Wordpress
+

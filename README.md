@@ -26,7 +26,7 @@ I use this plugin on my website: [shop.lofi-wines.com](https://shop.lofi-wines.c
 ## Planned Features
 
 * Support for different CRV rates based on container size (e.g., 5¢ for smaller containers)
-* Apply fees based on **Product Category** or **Tags** for more flexibility
+* Apply fees based on **Product Category** or **Tags** for more flexibility  <---Now implemented!
 * Backend UI for customizing rate and eligibility logic
 
 ---

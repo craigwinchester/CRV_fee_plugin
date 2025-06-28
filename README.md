@@ -12,7 +12,7 @@ The **California Redemption Value (CRV)** is a mandatory fee added to beverage c
 
 * 💵 Applies \$0.10 per bottle (24 oz or larger)
 * 🛒 Only applies to orders shipped to **California (CA)**
-* 🍷 Designed specifically for wine bottles
+* 🍷 Designed specifically for wine bottles in mind, although one could easily modify this for other sized containers.
 * ⚙️ Lightweight and easy to install
 
 ---

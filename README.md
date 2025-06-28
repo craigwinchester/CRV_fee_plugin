@@ -39,10 +39,10 @@ I use this plugin on my website: [shop.lofi-wines.com](https://shop.lofi-wines.c
 
 ## Installation
 
-1. Download or clone this repository.
+1. Download zip file from this repository.
 2. Upload the plugin folder to your WordPress `/wp-content/plugins/` directory.
 3. Activate the plugin in the WordPress **Plugins** menu.
-4. No configuration needed if you're selling only wine over 24 oz and ship to California.
+4. Go to config page located in WooCommerce.
 
 ---
 
